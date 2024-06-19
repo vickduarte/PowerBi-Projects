@@ -2,8 +2,8 @@
 Este repositório contém diversos dashboards de Power BI desenvolvidos para análise financeira de uma empresa. Os dashboards fornecem insights detalhados sobre o desempenho financeiro, incluindo análises de faturamento, desempenho dos vendedores e produtos com maior número de vendas.
 
 # Conteúdo
-Faturamento da Empresa: Dashboard que apresenta o faturamento mensal, trimestral e anual, permitindo a identificação de tendências e padrões de crescimento.
-Desempenho dos Vendedores: Visualizações que destacam o desempenho individual dos vendedores, incluindo rankings de vendas e análise de produtividade.
+Faturamento da Empresa: Dashboard que apresenta o faturamento mensal, trimestral e anual, permitindo a identificação de tendências e padrões de crescimento.\
+Desempenho dos Vendedores: Visualizações que destacam o desempenho individual dos vendedores, incluindo rankings de vendas e análise de produtividade.\
 Análise de Vendas: Relatórios que identificam os produtos ou serviços com o maior número de vendas, ajudando a empresa a focar em suas ofertas mais populares.
 
 # Requisitos
